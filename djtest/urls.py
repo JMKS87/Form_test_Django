@@ -21,7 +21,6 @@ from djtest.views import *
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^hello/$', hello),
-    url(r'^name/$', get_name),
     url(r'^form/$', form_page),
     url(r'^form_completed$', form_completed),
 ]

@@ -1,1 +1,4 @@
 lotek
+.idea
+djtest/__pycache__/
+djtest/__pycache__/*
